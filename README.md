@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jasmeet Singh</h1>
+<!-- <h1 align="center">Hi 👋, I'm Jasmeet Singh</h1>
 <h3 align="center">2nd-year undergrad from India, exploring Open source and web development.</h3>
 
 <p align="left"> 
@@ -71,4 +71,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jassu2244&" alt="jassu2244" /></p>
 
-![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jassu2244&theme=react-dark)
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jassu2244&theme=react-dark) -->
