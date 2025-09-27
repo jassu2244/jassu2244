@@ -14,7 +14,6 @@
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/jassu2244)
 - 💬 Ask me about **Java, React, Node.js, JavaScript, Spring Boot, AI Integration**
 - 📫 How to reach me: **jasmeetsingh0035@gmail.com**
-- 📱 Connect with me: **+91 9628293940**
 - ⚡ Fun fact: **I love combining traditional backend development with modern AI to create smarter applications!**
 
 ---
