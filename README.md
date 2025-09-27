@@ -153,7 +153,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jasmeet-singh-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/jasmeet03/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/jassu2244" target="_blank">
