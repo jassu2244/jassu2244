@@ -14,6 +14,7 @@
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/jassu2244)
 - 💬 Ask me about **Java, React, Node.js, JavaScript, Spring Boot, AI Integration**
 - 📫 How to reach me: **jasmeetsingh0035@gmail.com**
+- 📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/1PN68J8Hbu_KYpTZlOUtd-a4fZVbOfnDG/view)**
 - ⚡ Fun fact: **I love combining traditional backend development with modern AI to create smarter applications!**
 
 ---
@@ -98,6 +99,37 @@
 </p>
 
 ---
+
+## 📋 Professional Experience & Skills
+
+### 🎯 Core Competencies
+**Programming Languages:** Java, C, C++, JavaScript  
+**Frontend Technologies:** HTML5, CSS3, React, Tailwind CSS, Vite  
+**Frameworks & Tools:** Git, GitHub, VS Code, IntelliJ IDEA, SQL, Postman, Vercel, Netlify  
+**Generative AI:** Hugging Face, Mistral, Gemini Pro, ChatGPT  
+**Other:** Data Structures & Algorithms, Object-Oriented Programming  
+
+### 🏗️ Project Highlights
+
+#### 🏢 Employee Management System
+- Built a full-stack Employee Management System using **Java and Spring Boot**
+- Implemented comprehensive CRUD operations with advanced search functionality
+- Integrated **H2 database** with robust data validation and query handling
+- Developed efficient data management and manipulation capabilities for web applications
+- **Tech Stack:** Java, Spring Boot, H2 Database, HTML, CSS
+
+#### 🌍 SDG Dashboard
+- Developed dynamic sustainable development dashboard tracking all **17 SDGs**
+- Implemented **live rank and score monitoring** for real-time SDG index insights
+- Created interactive charts and graphical representations with intuitive user interface
+- **Tech Stack:** HTML, CSS, JavaScript, React, TailwindCSS
+
+#### 🎓 Nova – Smart Classroom Management System
+- Developed comprehensive full-stack classroom management system
+- Built **attendance monitoring** with automated reminder system
+- Integrated **AI-powered chatbot** for student assistance and doubt resolution
+- Provided personalized experience for students, parents, and administrators
+- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, TailwindCSS
 
 ## 🏅 Certifications
 
